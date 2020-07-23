@@ -1,0 +1,24 @@
+{{ 30 }}
+This particular document has
+   words all over             the place
+with odd
+            formatting.
+In fact there
+                  is a lot of horizontal
+white space       which may be      eliminated
+      as
+         part
+             of
+                processing
+the original file. But do notice there there is
+no vertical
+white
+          space
+that
+         is,
+no
+          blank
+lines
+         within
+the
+         text.
